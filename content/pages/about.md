@@ -1,19 +1,8 @@
 ---
-title: About page title
-featuredImage: /images/uploads/tim-marshall-155597.jpg
-section1: |-
-  ## Lorem Ipsum
-
-  Netlify CMS works with both `.md` and `.json`.
-
-  ![Image test](/images/uploads/isabella juskova.jpg)
-
-  [Link test](/images/uploads/isabella juskova.jpg)
-
-  ### Embed Test
-
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Js00yn142ic" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+title: Bonavia Industries...
+featuredImage: /images/uploads/05e26b_49a29b2d3a5541afa981a1f1a096b26a.webp
+subtitle: Sound Businesses.  Strong Communities.
+section1: '##'
 section2: |-
   ## This is a Container component
 
@@ -27,6 +16,5 @@ section2: |-
   vestibulum.
 
   The image below will have a `srcset` attribute generated:
-
-  ![Tim Marshall](/images/uploads/tim-marshall-155597.jpg)
 ---
+
