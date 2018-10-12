@@ -2,8 +2,7 @@
 title: Bonavia Industries...
 featuredImage: /images/uploads/05e26b_49a29b2d3a5541afa981a1f1a096b26a.webp
 subtitle: Sound Businesses.  Strong Communities.
-section1: '##'
-section2: |-
+section1: |-
   ## This is a Container component
 
   A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur
@@ -16,5 +15,6 @@ section2: |-
   vestibulum.
 
   The image below will have a `srcset` attribute generated:
+section2: '##'
 ---
 
