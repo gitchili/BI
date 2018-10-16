@@ -1,14 +1,14 @@
 ---
-title: Hello World!
+title: Bonavia Industries...
 featuredImage: /images/uploads/isabella juskova.jpg
-subtitle: This is the home page subtitle
+subtitle: Sound Businesses.  Strong Communities. 
 meta:
   title: ''
 ---
 
-# Netlify CMS + React Starter
+# Built With Netlify CMS & React
 
-A starter project for creating lightning-fast, offline-first websites with [Netlify CMS](https://netlifycms.org) and React.
+Temp site for Bonavia Industries project. A lightning-fast, offline-first websites with [Netlify CMS](https://netlifycms.org) and React.
 
 * **[Create React App](https://github.com/facebookincubator/create-react-app)**
 * **[React Router](https://github.com/ReactTraining/react-router)** for routing

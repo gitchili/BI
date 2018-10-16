@@ -18,7 +18,7 @@ export default ({ handlePopupOpen }) => (
         About
       </NavLink>
       <NavLink to='/blog/' exact>
-        Blog
+        Services
       </NavLink>
       <NavLink to='/contact/' exact>
         Contact
