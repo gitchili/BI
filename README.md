@@ -14,8 +14,8 @@
 I aim to include commonly used components and best-practices e.g. forms, settings, <head> tags, lazy-loading images, etc.
 
 ## Get going
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Jinksi/netlify-cms-react-starter&stack=cms)
+...
+<!-- [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Jinksi/netlify-cms-react-starter&stack=cms)
 
 1.  Hit the **Deploy to Netlify** button. This will:
 
@@ -30,7 +30,7 @@ I aim to include commonly used components and best-practices e.g. forms, setting
 
 1.  Invite users (probably yourself) to enable admin access
 
-* Open the **Identity** tab and hit **Invite Users**
+* Open the **Identity** tab and hit **Invite Users** -->
 
 ## Show me the CMS!
 
@@ -61,6 +61,6 @@ The Netlify CMS configuration is located in `public/admin/config.yml`. This is w
 Find out more in the [Netlify CMS Docs](https://www.netlifycms.org/docs/#configuration).
 
 ## See also
-
+sd
 [Netlify CMS Docs](https://www.netlifycms.org/docs/)  
 [Netlify CMS Repo](https://github.com/netlify/netlify-cms)  
